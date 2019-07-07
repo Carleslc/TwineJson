@@ -3,17 +3,13 @@ TwineJson - Twine 2 JSON Exporter Utility Story Format
 
 [![Build Status](https://travis-ci.org/cauli/TwineJson.svg?branch=master)](https://travis-ci.org/cauli/TwineJson)
 
-## Demo
-
-![Demo](http://cau.li/TwineJson/tutorial/sample.gif)
-
 ## How to Use
 
 Short version:
 
-Add this URL as your story format
+**Add this URL as your story format**
 
->https://cau.li/TwineJson/format.js
+>**https://laughing-ride-514c24.netlify.com/format.js**
 
 Long version:
 
