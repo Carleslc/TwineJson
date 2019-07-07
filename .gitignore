@@ -1,3 +1,5 @@
 node_modules
-.npm-debug.logpackage-lock.json
+.npm-debug.log
+package-lock.json
+
 .DS_Store
